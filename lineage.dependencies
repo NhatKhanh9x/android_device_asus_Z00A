@@ -1,0 +1,12 @@
+[
+  {
+	"revision": "cm-14.1",
+    "repository": "LineageOS/android_kernel_asus_moorefield",
+    "target_path": "kernel/asus/moorefield"
+  },
+  {
+	"revision": "cm-14.1",
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport"
+  }
+]
